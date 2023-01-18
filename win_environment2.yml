@@ -193,7 +193,7 @@ dependencies:
   - prometheus_client=0.8.0
   - prompt-toolkit=3.0.8
   - prompt_toolkit=3.0.8
-  - protobuf=3.19.0
+  - protobuf=3.11.2
   - ptyprocess=0.6.0
   - py4j=0.10.9
   - pyarrow=0.15.1
@@ -297,3 +297,4 @@ dependencies:
     - wrapt==1.12.1
     - xgboost==1.2.1
     - yarl==1.5.1
+    - protobuf==3.20.*
