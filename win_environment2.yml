@@ -1,4 +1,4 @@
-name: learn-env
+name: learn-env2
 channels:
   - conda-forge
   - defaults
@@ -193,7 +193,7 @@ dependencies:
   - prometheus_client=0.8.0
   - prompt-toolkit=3.0.8
   - prompt_toolkit=3.0.8
-  - protobuf=3.11.2
+  - protobuf=3.19.0
   - ptyprocess=0.6.0
   - py4j=0.10.9
   - pyarrow=0.15.1
